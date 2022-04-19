@@ -1,9 +1,4 @@
 <h1>Olá! Eu sou Mariano Carlos e seja bem-vindo(a) ao meu Github👋</h1>
-<div align="center">
-  <a href="https://github.com/Mariano-SI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-SI&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariano-si&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <div style="display: inline_block"><br>
   <h2 style="padding-top: 0">Linguagens</h2>
   <img align="center" alt="Mariano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,11 +12,16 @@
   <img align="center" alt="Mariano-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mariano-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
-
-<div> 
+</div>
+<div>
   <h2 style="padding-top: 0">Contato</h2>
    <a href="https://www.linkedin.com/in/mariano-carlos-silva-418121202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/idmariano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariano.silva@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariano.silva@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
+<div align="left">
+  <a href="https://github.com/Mariano-SI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-SI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariano-si&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ 
   
-  </div>
