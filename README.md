@@ -20,7 +20,6 @@ Meu nome é Mariano Carlos Silva, tenho 20 anos, graduando em Sistemas de inform
 <div style="display: inline_block">
   <h2 >Contato</h2>
    <a href="https://www.linkedin.com/in/mariano-carlos-silva-418121202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/idmariano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariano.silva@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
   
 <div align="left" style="display: inline_block">
