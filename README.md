@@ -1,5 +1,5 @@
 ## Olá! Eu sou Mariano e seja bem-vindo(a) ao meu Github👋
-Meu nome é Mariano Carlos Silva, tenho 20 anos, graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri. Atualmente à procura de oportunidades de estágio na área de desenvolvimento.
+Meu nome é Mariano Carlos Silva, tenho 21 anos, graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri. Atualmente à procura de oportunidades de estágio na área de desenvolvimento.
 
 <div style="display: inline_block"><br>
   <h2>Linguagens</h2>
