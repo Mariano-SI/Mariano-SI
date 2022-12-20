@@ -2,7 +2,7 @@
 -Mariano Carlos Silva<br>
 -21 y<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
--Atualmente à procura de oportunidades de estágio na área de desenvolvimento.
+-Estagiário de desenvolvimento FullStack.
 
 <div style="display: inline_block">
   <h2>Tecnologias</h2>
