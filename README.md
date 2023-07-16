@@ -1,8 +1,9 @@
 <h1> Olá! Eu sou Mariano e seja bem-vindo(a) ao meu Github👋</h1>
 -Mariano Carlos Silva<br>
--21 y<br>
+-22 y<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
--Estagiário de desenvolvimento FullStack.
+-Estagiário de desenvolvimento FullStack.<br>
+-Ex diretor da Next Step - Empresa Júnior.
 
 <div style="display: inline_block">
   <h2>Tecnologias</h2>
