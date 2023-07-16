@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou Mariano e seja bem-vindo(a) ao meu Github👋</h1>
+
 -Mariano Carlos Silva<br>
 -22 y<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
