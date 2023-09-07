@@ -2,7 +2,7 @@
 -Mariano Carlos Silva<br>
 -22 y<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
--Estagiário de desenvolvimento FullStack.<br>
+-Desenvolvedor FullStack na dti Digital.<br>
 -Ex diretor da Next Step - Empresa Júnior.
 <div>
   <h2>Currently working with</h2>
