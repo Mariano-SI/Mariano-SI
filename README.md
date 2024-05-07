@@ -2,8 +2,8 @@
 -Mariano Carlos Silva<br>
 -22 y<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
+-Ex diretor da Next Step - Empresa Júnior.<br>
 -Desenvolvedor FullStack na dti Digital.<br>
--Ex diretor da Next Step - Empresa Júnior.
 <div>
   <h2>Currently working with</h2>
   <img align="center" alt="Mariano-react" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
