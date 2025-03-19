@@ -12,7 +12,7 @@ Desenvolvedor Fullstack e graduando em Sistemas de Informação na Universidade 
 
 ## Formação Acadêmica
 
-- **Bacharelado em Sistemas de Informação** | UFVJM 
+- **Bacharelado em Sistemas de Informação** | Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM 
 
 
 ## Tecnologias & Ferramentas
