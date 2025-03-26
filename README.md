@@ -6,7 +6,7 @@ Desenvolvedor Fullstack e graduando em Sistemas de Informação na Universidade 
 
 - **Desenvolvedor Pleno** | ilegra / PagoNxt - a Santander company *(Jan/2025 - Atual)*
 
-- **Desenvolvedor Líder** | dti digital *(2020 - Jan/2025)*
+- **Desenvolvedor Líder** | dti digital *(2022 - Jan/2025)*
 
 - **Diretor | Empresa Júnior Next Step** *(Fev/2021 - Jan/2023)*
 
