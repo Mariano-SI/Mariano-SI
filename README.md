@@ -4,7 +4,7 @@ Desenvolvedor Fullstack e bacharel em Sistemas de Informação pela UFVJM. Espec
 
 ## Experiência Profissional
 
-- **Software Engineer | Gen AI** | Mercado Livre *(Nov/2026 - Atual)*
+- **Software Engineer | Gen AI** | Mercado Livre *(Nov/2025 - Atual)*
 - **Desenvolvedor Pleno** | PagoNxt - a Santander company *(Jan/2025 - Out/2025)*
 - **Desenvolvedor Líder** | dti digital *(2022 - Jan/2025)*
 
