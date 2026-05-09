@@ -1,6 +1,6 @@
 ## Mariano Silva
 
-Desenvolvedor Fullstack e bacharel em Sistemas de Informação pela UFVJM. Especialista em backend e frontend, com sólida experiência em liderança técnica, automação de processos e cultura DevOps.
+Desenvolvedor Fullstack e bacharel em Sistemas de Informação pela UFVJM. 
 
 ## Experiência Profissional
 
